@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.container {
+  background-color: rgb(245, 215, 170);
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+.card {
+  background-color: aliceblue;
+  border-radius: 15px;
+  padding: 20px;
+  text-align: center;
+  width: fit-content;
+}

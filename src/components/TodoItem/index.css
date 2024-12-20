@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+.item-continer {
+  text-align: start;
+}
+
+.btn-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} 
+.delet-btn {
+  color: #ff0b37;
+  border: solid 2px #ff0b37;
+  border-radius: 5px;
+  background-color: aliceblue;
+  margin: 5px;
+  height: fit-content;
+  width: fit-content;
+  padding: 5px 15px;
+}
